@@ -1,2 +1,2 @@
 git is super cool!
-edit
+remotes are awesome!
