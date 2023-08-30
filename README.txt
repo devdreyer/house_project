@@ -1,1 +1,1 @@
-git is awesome!
+this is my cool project
